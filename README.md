@@ -4,9 +4,9 @@ Expected that you have a running mongo server.
 
 Run
 -----
-  `$ npm run start`
-  GET localhost:3000/movies
-  POST localhost:3000/movies
+  1. `$ npm run start`
+  2. GET localhost:3000/movies
+  3. POST localhost:3000/movies
   `json
     {
       {
